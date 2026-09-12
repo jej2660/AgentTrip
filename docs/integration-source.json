@@ -1,0 +1,167 @@
+{
+  "source": "OpenClaw Downhill Route workspace",
+  "sourceCommit": "a06cd4d",
+  "includesUncommittedApplicationFiles": true,
+  "files": [
+    {
+      "path": "app/api/regions/[id]/pois/route.ts",
+      "sha256": "bbc62668079902818f7de138e164f5df842aa1402105cc8aceac879e32f346b5"
+    },
+    {
+      "path": "app/api/route/engine/route.ts",
+      "sha256": "519812c12c87adc80f87e40aa0fd8b16cf8f8f09c9e6ba86d747fc778f73a03e"
+    },
+    {
+      "path": "app/globals.css",
+      "sha256": "e5b9ed14394335305dcca23bc2c2e1bc91a4d215aea039d561cc6e1c278fb512"
+    },
+    {
+      "path": "app/layout.tsx",
+      "sha256": "4fdfb2a354c90804fa9ad17d67f461a43e72d66f5ceb28e28736a04963b6fe26"
+    },
+    {
+      "path": "app/page.tsx",
+      "sha256": "ba9830b82455b8cbea01f85a6a42d2e3da90f01c57b4069ae155ab196b186f48"
+    },
+    {
+      "path": "app/plan/page.tsx",
+      "sha256": "0fbcb790eae803fe75fb59ff95416fd744fd7c6d5328cc8606e65a18c0288b68"
+    },
+    {
+      "path": "lib/data/regions/dongincheon/parkings.json",
+      "sha256": "8d8d6b5350cda7a831854169ddefca85d0513ac42853fefb33eefa000d94da90"
+    },
+    {
+      "path": "lib/data/regions/dongincheon/pois.json",
+      "sha256": "53b6f5b8394f1984080c9dd95e61cf3757b1ed65a3ef9d67734d766cf4177834"
+    },
+    {
+      "path": "lib/data/regions/dongincheon/themes.json",
+      "sha256": "3b47a0efb762b0895ebe42aa8456a04160441b29cc924dda2808517b62f8b9f9"
+    },
+    {
+      "path": "lib/domain/schema.ts",
+      "sha256": "3ef718a8d603bb9fe3014ecd5d194ff4f85fb3cbcec676a276b54568f39d023f"
+    },
+    {
+      "path": "lib/domain/types.ts",
+      "sha256": "ab6dca63eb089c6eea81a10309371d34de44629661d4ca7c01aa4b0f5f04caa7"
+    },
+    {
+      "path": "lib/engine/basecamp.ts",
+      "sha256": "a1cfdb2470ef5a37f1e33f38050943f3c98b5e7b1b3ff658bc706711c81b88ad"
+    },
+    {
+      "path": "lib/engine/config.ts",
+      "sha256": "0c3682354937c4ed86a53a1c241309645f9cbfd20713ef5abda67b44f8dfc3b8"
+    },
+    {
+      "path": "lib/engine/effort.ts",
+      "sha256": "0f85e879c2ce1c1cf8a6f96cab7a564cad76b8fb669ff5710ff2913656dfdef2"
+    },
+    {
+      "path": "lib/engine/invariants.ts",
+      "sha256": "1965a38e02737cd1cfd646ce8a483cfc55a1e722be51c2d3d67958824a4b6f53"
+    },
+    {
+      "path": "lib/engine/labels.ts",
+      "sha256": "c9082985a3d87b2fa42c310a299326a4e5499f9be50ccdc13b5127f5b49b1294"
+    },
+    {
+      "path": "lib/engine/matrix.ts",
+      "sha256": "8fb552378ccd71c723c248b6dbe8e9850cdf44279c4bc6f36271fd9f22905b14"
+    },
+    {
+      "path": "lib/engine/modes.ts",
+      "sha256": "9e132b4db9a2885c193fff2df995ba8c948a67e5b51bbc08f9a37beb3a3f0616"
+    },
+    {
+      "path": "lib/engine/personas.ts",
+      "sha256": "ef68c99f1586fe64dcd83172795354b92a4143d629a6997bbb5cecc68a7e8860"
+    },
+    {
+      "path": "lib/engine/plan.ts",
+      "sha256": "b78d06bdfd62de14a53d41b291d5a10a2f2db8ae17afcc14cced91c7470eda8e"
+    },
+    {
+      "path": "lib/engine/profile.ts",
+      "sha256": "62fcb34fb2c21e82e7734070c78aba380b78dd91f2ef387562f579ea140c4818"
+    },
+    {
+      "path": "lib/engine/report.ts",
+      "sha256": "8c5eb4331129bbdae1ff4bb173068ab5739c759970663dda21c38e42183b3aba"
+    },
+    {
+      "path": "lib/engine/sloth.ts",
+      "sha256": "22996c7a31f057214dacdc9209ef6297318331186c0eb54aa5bbc9a077454eb3"
+    },
+    {
+      "path": "lib/engine/solver.ts",
+      "sha256": "bda872a37fb9db222ea35fbeb84bff3c500f05389807f0e1179a6ef9d68e5e49"
+    },
+    {
+      "path": "lib/providers/RouteProvider.ts",
+      "sha256": "98a9d2f90f0abe07ff5d512b638063835720f2c37a4ebc8fda496124cbbdc801"
+    },
+    {
+      "path": "lib/providers/approx.ts",
+      "sha256": "73e06059ff088677b95b60c2406dd8a689fcefc12a72abdcfe6bf3e2dce77fd7"
+    },
+    {
+      "path": "lib/providers/ors.ts",
+      "sha256": "e35740de1f73f0de61b818e8baa8c639a1355f34a664e33c158bcffd029df9c5"
+    },
+    {
+      "path": "tests/domain/schema.test.ts",
+      "sha256": "8c85151bfdc5bd01243cd7ee5c905e0c4d025f5f53b89c49d70925574adb3893"
+    },
+    {
+      "path": "tests/engine/effort.test.ts",
+      "sha256": "f7de810f6ea42a518dc9be8df7162048d5bd8b0ab3dca221028c37add371410d"
+    },
+    {
+      "path": "tests/engine/scenarios.test.ts",
+      "sha256": "4e49e54596bdaa2fc43d00eba3f8ecb295f05f56e7ae7a5ac03e3ebec7dc277e"
+    },
+    {
+      "path": "docs/PRD.md",
+      "sha256": "845d1aa310ec5e92f8a603753d2b5bfaae4f426c00a8d2dc5005705c6899a6f0"
+    },
+    {
+      "path": "docs/decisions.md",
+      "sha256": "88b614068a752380164860c3abf7a396e67ba09e8cf77f5cad3580f1fb4494df"
+    },
+    {
+      "path": "docs/integrations.md",
+      "sha256": "65174c1dcfc4f5377e18183b7cda821492602f41535299e6fad9fae1ee5c3b46"
+    },
+    {
+      "path": "docs/superpowers/plans/2026-09-12-downhill-route-phase0.md",
+      "sha256": "a90a0cfdfc0ef8261187087649aea936d1de60ecfc192d387aa9a954f5c467ba"
+    },
+    {
+      "path": "docs/superpowers/plans/2026-09-12-downhill-route-phase1.md",
+      "sha256": "0029f86246c0ba4fac9fb344e292be75753d2eb861fa57e43090741d86173861"
+    },
+    {
+      "path": "docs/superpowers/specs/2026-09-12-downhill-route-design.md",
+      "sha256": "baa54aa8f835bb8920090e6b8bea3fe6561b8067473c9eb8b645b71df0d9a2b3"
+    },
+    {
+      "path": "package.json",
+      "sha256": "dfdf50d688b46f4ea4014eb8c1238593885f078ebc5a33decc027090e267425b"
+    },
+    {
+      "path": "package-lock.json",
+      "sha256": "3e0ef649b969482b8fad31abe86874aedabf5ab974466427749cc732d26e16a1"
+    },
+    {
+      "path": "tsconfig.json",
+      "sha256": "cff4ef2e8b2bcefaf082776a9e16f56cf553f2de0fd1267ba2eb2eba3dd47fd4"
+    },
+    {
+      "path": "vitest.config.ts",
+      "sha256": "f84a4315825df6464784bda95db75416efb3899a537d66cb71721e06f0dd3521"
+    }
+  ]
+}
