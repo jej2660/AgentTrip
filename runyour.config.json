@@ -1,0 +1,5 @@
+{
+  "baseUrl": "https://api.runyour.ai/v1",
+  "model": "gemini/gemini-3.6-flash",
+  "apiKeyEnvVar": "RUNYOUR_API_KEY"
+}
