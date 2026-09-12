@@ -1,0 +1,62 @@
+[
+  {
+    "id": "dongincheon:parking-chinatown",
+    "regionId": "dongincheon",
+    "name": "차이나타운 공영주차장",
+    "location": { "lat": 37.4748, "lng": 126.6190 },
+    "elevationM": 15,
+    "category": "parking",
+    "themes": ["주차장"],
+    "indoor": false,
+    "covered": false,
+    "stayMin": 0,
+    "priority": 1,
+    "transitAccess": true,
+    "description": "차이나타운 중심부 공영주차장."
+  },
+  {
+    "id": "dongincheon:parking-sinpo",
+    "regionId": "dongincheon",
+    "name": "신포국제시장 공영주차장",
+    "location": { "lat": 37.4720, "lng": 126.6275 },
+    "elevationM": 12,
+    "category": "parking",
+    "themes": ["주차장"],
+    "indoor": false,
+    "covered": false,
+    "stayMin": 0,
+    "priority": 1,
+    "transitAccess": true,
+    "description": "신포국제시장 인근 공영주차장."
+  },
+  {
+    "id": "dongincheon:parking-art-platform",
+    "regionId": "dongincheon",
+    "name": "인천아트플랫폼 주차장",
+    "location": { "lat": 37.4725, "lng": 126.6200 },
+    "elevationM": 10,
+    "category": "parking",
+    "themes": ["주차장"],
+    "indoor": false,
+    "covered": false,
+    "stayMin": 0,
+    "priority": 2,
+    "transitAccess": true,
+    "description": "개항장 박물관거리 및 아트플랫폼 인근 주차장."
+  },
+  {
+    "id": "dongincheon:parking-jayu-park",
+    "regionId": "dongincheon",
+    "name": "자유공원 노상공영주차장",
+    "location": { "lat": 37.4755, "lng": 126.6230 },
+    "elevationM": 65,
+    "category": "parking",
+    "themes": ["주차장"],
+    "indoor": false,
+    "covered": false,
+    "stayMin": 0,
+    "priority": 1,
+    "transitAccess": true,
+    "description": "자유공원 정상 부근 최고점 주차장."
+  }
+]
